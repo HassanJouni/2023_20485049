@@ -1,3 +1,0 @@
-C:/Users/hassa/2023_20485049/Worksheet4/hello_cmake/build/CMakeFiles/hello.dir
-C:/Users/hassa/2023_20485049/Worksheet4/hello_cmake/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/hassa/2023_20485049/Worksheet4/hello_cmake/build/CMakeFiles/ZERO_CHECK.dir
