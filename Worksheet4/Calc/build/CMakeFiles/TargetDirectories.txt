@@ -1,4 +1,0 @@
-C:/Users/hassa/2023_20485049/Worksheet4/Calc/build/CMakeFiles/maths.dir
-C:/Users/hassa/2023_20485049/Worksheet4/Calc/build/CMakeFiles/calc.dir
-C:/Users/hassa/2023_20485049/Worksheet4/Calc/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/hassa/2023_20485049/Worksheet4/Calc/build/CMakeFiles/ZERO_CHECK.dir
