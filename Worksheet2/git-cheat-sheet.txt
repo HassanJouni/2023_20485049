@@ -1,6 +1,0 @@
-Git show: Provides details about a particular commit, such as the commit message, changes made, and metadata (author, date) about the commit.
-git log: Displays a list of repository commits in chronological order. Details like the commit message, author, date, and commit hash are displayed.
-git checkout: This lets you roll back changes to a prior commit or move files across branches. It is employed for managing the working directory and navigating the commit history.
-Git init creates a new repository in the current directory from scratch. It starts monitoring changes to the project files and generates a.git directory to hold the information of the repository.
-Git add: Updates the staging area with modifications from the working directory. By adding the updated files to the index, it gets the files ready for the next commit.
-Git commit: Keeps track of repository modifications. With a commit message outlining the modifications made since the last commit, it generates a new commit.
